@@ -1,7 +1,7 @@
 # note-taker
 
 💻 Below is the picture of the application:
-# screen shot pass test
+# screen shot 
  <img src= "./images/IMG_6031.PNG" />
 
  Application deployed live on https://notetaker-alvarado.herokuapp.com/
